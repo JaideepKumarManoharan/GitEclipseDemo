@@ -5,6 +5,7 @@ public class SecondSample {
 		// TODO Auto-generated method stub
 		System.out.println("this is for second sample");
 		System.out.println("jaideep");
+	    
 
 	}
 
